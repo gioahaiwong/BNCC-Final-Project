@@ -1,0 +1,72 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: "Trebuchet MS", "Lucida Sans Unicode", "Lucida Grande",
+    "Lucida Sans", Arial, sans-serif;
+}
+.logo-picture3 {
+  width: 150px;
+  height: 65px;
+  opacity: 0.9;
+}
+
+.checkout-container {
+  position: fixed;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+  border: none;
+  background-color: rgba(39, 37, 22, 0.5);
+  box-shadow: 0px 0px 20px rgb(228, 248, 136);
+  border-radius: 10px;
+  padding: 50px 90px;
+  top: 0;
+  left: 35%;
+  margin-top: 20px;
+}
+.title-text-container {
+  margin-bottom: 7px;
+  font-size: 27px;
+  color: rgb(241, 232, 95);
+}
+.form-container {
+  display: block;
+  justify-content: center;
+  align-items: center;
+}
+.input-title {
+  margin-top: 15px;
+  font-size: 12px;
+  color: rgb(226, 225, 173);
+}
+.input-style {
+  padding: 10px 20px;
+  border: none;
+  border-radius: 10px;
+  background-color: rgb(235, 235, 230);
+  font-size: 20px;
+  color: black;
+  transition: 0.3s;
+}
+.input-style:hover {
+  background-color: white;
+  color: rgb(0, 0, 0);
+}
+.checkout-button {
+  background-color: yellow;
+  color: black;
+  cursor: pointer;
+  border: none;
+  padding: 5px 12px;
+  border-radius: 24px;
+  font-size: 19px;
+  transition: 0.5s;
+  margin-top: 35px;
+}
+.checkout-button:hover {
+  background-color: black;
+  color: aliceblue;
+  box-shadow: 0px 0px 30px rgb(255, 255, 255);
+}
