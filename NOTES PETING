@@ -1,1 +1,5 @@
+SOURCE CODEnya ada di Folder ChipiChapa
 Untuk mengRun Websitenya, buat terminal baru, ketik "cd ChipiChapa", lalu ketik "npm i/npm install" lalu ketik "npm run dev" di terminal baru.
+Setelah run npm dev, ketik /login setelah link localhostnya untuk melihat websitenya.
+Lalu coba jalankan.
+TERIMA KASIH.
